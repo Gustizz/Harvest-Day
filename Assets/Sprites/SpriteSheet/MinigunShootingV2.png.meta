@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: f6df75270ffb39a4d910e151fdbd7ed9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3831728509313404071
+    second: MinigunShootingV2_0
+  - first:
+      213: 75407268562701049
+    second: MinigunShootingV2_1
+  - first:
+      213: -2287122305788876139
+    second: MinigunShootingV2_2
+  - first:
+      213: -5834024177249963481
+    second: MinigunShootingV2_3
+  - first:
+      213: -9019948665171107024
+    second: MinigunShootingV2_4
+  - first:
+      213: 900555975906909013
+    second: MinigunShootingV2_5
+  - first:
+      213: -7617967852045312500
+    second: MinigunShootingV2_6
+  - first:
+      213: -4595400991122015380
+    second: MinigunShootingV2_7
+  - first:
+      213: 7587252757399101069
+    second: MinigunShootingV2_8
+  - first:
+      213: -7438859694161214657
+    second: MinigunShootingV2_9
+  - first:
+      213: 5794816698074053025
+    second: MinigunShootingV2_10
+  - first:
+      213: -7781192472465559925
+    second: MinigunShootingV2_11
+  - first:
+      213: 2689590759965804151
+    second: MinigunShootingV2_12
+  - first:
+      213: -4204357418960147884
+    second: MinigunShootingV2_13
+  - first:
+      213: 9051805838331766687
+    second: MinigunShootingV2_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MinigunShootingV2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95333aed837f2dac0800000000000000
+      internalID: -3831728509313404071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 92
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8920e286eb0100800000000000000
+      internalID: 75407268562701049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 94
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae49d61628240e0800000000000000
+      internalID: -2287122305788876139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 92
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b9f7bbe1690fa0800000000000000
+      internalID: -5834024177249963481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 94
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033a7309a74b2d280800000000000000
+      internalID: -9019948665171107024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 92
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b594483ea6f7c00800000000000000
+      internalID: 900555975906909013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_6
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 94
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e5e7ca99a874690800000000000000
+      internalID: -7617967852045312500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 92
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb1b3652bd930c0800000000000000
+      internalID: -4595400991122015380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_8
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 94
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e50e11f265b4960800000000000000
+      internalID: 7587252757399101069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 92
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33cc8b558cd3c890800000000000000
+      internalID: -7438859694161214657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_10
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 0
+        width: 94
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b43ba5135b6050800000000000000
+      internalID: 5794816698074053025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_11
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 92
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2fbd3ca6a30490800000000000000
+      internalID: -7781192472465559925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_12
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 0
+        width: 94
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7764feecb88535520800000000000000
+      internalID: 2689590759965804151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_13
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 0
+        width: 92
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a2a1ef33f17a5c0800000000000000
+      internalID: -4204357418960147884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinigunShootingV2_14
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 0
+        width: 94
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97629193797e9d70800000000000000
+      internalID: 9051805838331766687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
